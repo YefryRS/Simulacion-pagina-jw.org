@@ -1,0 +1,79 @@
+.recommended__article {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    border-bottom: gray 1px solid;
+}
+.recommended__article article {
+    margin: 7px;
+}
+.recommended__card3 {
+    border-bottom: none;
+}
+.section2__img-bible {
+    min-width: 200px;
+    min-height: 200px;
+}
+.them-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 15px;
+}
+.them-container__card {
+    margin: 0 auto;
+    width: 48%;
+    height: 90px;
+    margin-bottom: 15px;
+}
+.card, .card2, .card3, .card4, .card5, .card6, .card7, .card8, .card9 {
+    width: 100%;
+}
+.them-container2__invitaciones {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+}
+.them-container2__invitaciones span {
+    width: 30%;
+    max-width: 30%;
+    height: 80%;
+}
+.them-container2__invitaciones .invitaciones-img2 {
+    height: 97%;
+}
+.them-container2__invitaciones div {
+    width: 70%;
+    margin-left: 15px;
+    text-align: left;
+}
+.them-container2__invitaciones div h2 {
+    padding: 0;
+}
+.direct-links__card {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.direct-links__card a {
+    width: 45%;
+    margin: 7px auto;
+}
+.tarjeta3 {
+    display: flex;
+    flex-direction: row;
+}
+.tarjeta3 div {
+    width: 50%;
+}
+.section6 div {
+    width: 90%;
+    margin: 20px auto 0;
+    display: flex;
+}
+.section6 div .section6__info {
+    margin-left: 20px;
+}

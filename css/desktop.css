@@ -1,0 +1,61 @@
+html {
+    width: 100%;
+    background-color: #e1e5ea;
+}
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+.section1 .image-principal {
+    height: 400px;
+}
+.recommended__article {
+    border-bottom: none;
+}
+.section2y3 {
+    display: flex;
+    width: 90%;
+    margin: 0 auto 10px;
+    align-items: center;
+    border-bottom: 1px gray solid;
+}
+.section2, .section3 {
+    border-bottom: none;
+    justify-content: center;
+    margin: 7px;
+}
+
+.section2 .section2__img-bible {
+    width: 100px;
+    min-width: 100px;
+    min-height: 80px;
+}
+.section2 {
+    border-right: 1px solid gray;
+}
+.section3 a {
+    width: 50%;
+}
+.them-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 10px;
+}
+.them-container__card {
+    width: 100%;
+    min-height: 110px;
+}
+.them-container2__invitaciones {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    max-height: 200px;
+}
+.them-container2__invitaciones span {
+    width: 20%;
+    height: 90%;
+}
