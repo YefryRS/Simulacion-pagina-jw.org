@@ -1,2 +1,2 @@
 # Simulacion-pagina-jw.org
-Proyecto creado con html y css simulando una pagina ya existente
+Proyecto creado con html y css simulando una pagina ya existente. Este fue un proyecto que realize con el fin de probar mis habilidades con html y css. La idea era replicar la maquetacion de alguna pagina ya existente, para mi proyecto tome como referencia esta pagina religiosa. Intente llevar a cabo algunas practicas que se me recomendaron, tales como: resetear el margin y el padding que vienen por defecto, el font-size pasarlo a porcentaje y usar la medida de rem con el fin de que la pagina web sea responsive,y se adapte a cualquier dispositivo. Este fue el proyecto mas largo y retador que hize de maquetacion, y gracias a eso la maquetacion de se me hizo muchisimo mas facil.
